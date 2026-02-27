@@ -203,34 +203,13 @@ Loan_Default_Prediction_of_a_bank/
   → Detailed methodology, findings, and conclusions
 
 * **Loan Default Prediction dummy project.docx**
-  → Supplementary or draft documentation
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-To contribute:
-
-1. Follow installation steps above
-2. Create a new branch
-3. Make improvements
-4. Submit a Pull Request
-
-You can:
-
-* Improve model performance
-* Add new algorithms
-* Improve documentation
-* Optimize preprocessing
+  → Key features which I considered to be useful while predicting defaulter.
 
 ---
 
 ## 📄 License
 
 This project is currently not licensed.
-Please contact the repository owner for licensing details.
 
 ---
 

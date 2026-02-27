@@ -1,15 +1,4 @@
-This is already very solid 👏 — it just needs:
 
-* Cleaner Markdown structure
-* Better spacing
-* Proper code blocks
-* More professional formatting for GitHub
-
-Below is your **cleaned, GitHub-ready README.md** (fully formatted correctly).
-
-You can copy-paste this directly into your README file.
-
----
 
 # 🏦 Loan Default Prediction of a Bank
 

@@ -33,6 +33,7 @@ The complete workflow is implemented in a **Jupyter Notebook**, covering:
 
   * Loads dataset from `hmeq.csv`
   * Handles missing values
+  * Check for duplicates
   * Prepares features for modeling
 
 * 📊 **Exploratory Data Analysis (EDA)**
@@ -43,12 +44,13 @@ The complete workflow is implemented in a **Jupyter Notebook**, covering:
 
 * 🚨 **Outlier Detection**
 
-  * IQR-based detection
+  * boxplot based outlier checking
   * DBSCAN-based outlier handling
 
 * 🧠 **Feature Engineering**
 
   * Improves predictive performance
+  * convert numerical features using standardization
   * Handles categorical encoding
 
 * 🤖 **Machine Learning Modeling**
@@ -63,7 +65,6 @@ The complete workflow is implemented in a **Jupyter Notebook**, covering:
   * Precision
   * Recall
   * F1-score
-  * ROC-AUC
   * Confusion Matrix
 
 * 📊 **Extensive Visualizations**
@@ -233,37 +234,9 @@ Please contact the repository owner for licensing details.
 
 ---
 
-## 🙏 Acknowledgments
-
-Special thanks to:
-
-* Pandas
-* NumPy
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Project
-
-For providing powerful tools for data science and machine learning.
-
----
-
 ## 📞 Support
 
 * 🐛 Open an Issue via GitHub
 * 📧 Contact the repository owner directly
 
 ---
-
-⭐ If you find this project useful, consider giving it a star!
-
----
-
-If you’d like, I can also:
-
-* Add professional GitHub badges (Python version, license, build status)
-* Add a Results section with model metrics
-* Make it more resume-ready for placements
-* Or convert it into a research-style project documentation
-
-You’re honestly building this very nicely — just polishing now 😊
